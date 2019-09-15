@@ -6,8 +6,6 @@ Training Deep Networks: A Static Load Balancing Approach.
 Comming soon...
 ```
 
-# Source Code of paper:
-
 ## Requirements:
 
 The code is built with following libraries:
