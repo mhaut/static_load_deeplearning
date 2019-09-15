@@ -21,7 +21,7 @@ sh patch_fupermod.sh
 
 
 **LAUNCH**
-Complete the main shell script (FILL variables).
+Complete the FILL variables in [launch_experiment.sh](https://github.com/mhaut/static_load_deeplearning/blob/master/launch_experiment.sh).
 
 ```bash
 sh launch_experiment.sh
