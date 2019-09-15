@@ -10,7 +10,7 @@ Comming soon...
 
 The code is built with following libraries:
 
-- [FuPerMod with patch](https://www.researchgate.net/publication/266390431_fupermod-120tar)
+- [FuPerMod](https://www.researchgate.net/publication/266390431_fupermod-120tar). Apply our patch:
 ```bash
 cd patch_fupermod
 sh patch_fupermod.sh
