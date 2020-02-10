@@ -3,8 +3,13 @@ The Code for "Training Deep Networks: A Static Load Balancing Approach". []
 ```
 S. Moreno-Alvarez, J. M. Haut, M. E. Paoletti, J. A. Rico-Gallego, J. C. Diaz-Martin and J. Plaza.
 Training Deep Networks: A Static Load Balancing Approach.
-Comming soon...
+Journal of Supercomputing.
+DOI: 
+Accepted for publication, 2020.
 ```
+
+![static](https://github.com/mhaut/static_load_deeplearning/blob/master/images/architecture.png)
+
 
 ## Requirements:
 
@@ -25,12 +30,4 @@ Complete the FILL variables in [launch_experiment.sh](https://github.com/mhaut/s
 
 ```bash
 sh launch_experiment.sh
-```
-
-### Reference
-
-If you find our paper and repo useful, please cite as
-
-```
-Comming soon...
 ```
