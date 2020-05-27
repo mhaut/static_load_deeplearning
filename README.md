@@ -1,10 +1,10 @@
 # Training Deep Networks: A Static Load Balancing Approach
-The Code for "Training Deep Networks: A Static Load Balancing Approach". []
+The Code for "Training Deep Networks: A Static Load Balancing Approach". [https://link.springer.com/article/10.1007%2Fs11227-020-03200-6]
 ```
 S. Moreno-Alvarez, J. M. Haut, M. E. Paoletti, J. A. Rico-Gallego, J. C. Diaz-Martin and J. Plaza.
 Training Deep Networks: A Static Load Balancing Approach.
 Journal of Supercomputing.
-DOI: 
+DOI: 10.1007/s11227-020-03200-6
 Accepted for publication, 2020.
 ```
 
